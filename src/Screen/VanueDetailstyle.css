@@ -1,0 +1,28 @@
+.btnColorcontact{
+   
+    background-color: #5ba829;
+    color: white;
+    font-weight: bold;
+}
+
+.btnColorSend{
+   
+    background-color: #e72e77;
+    color: white;
+    font-weight: bold;
+}
+
+.contactIcon{
+    color: #5ba829;
+}
+.activepara:hover{
+    color: #e72e77;
+    font-weight: 900;
+    border-bottom: 2px solid #e72e77 ;
+    display: inline-block;
+}
+
+.activepara{
+color: #b1b1b1;
+
+}

@@ -1,0 +1,16 @@
+.color{
+    background-color: #e72e77;
+ 
+   /* border: 2px solid black; */
+   padding: 8px 10px 8px 10px;
+   border-radius: 10px;
+   font-size: 1.2em;
+   
+   
+
+   color: white;
+   
+}
+.color:hover{
+     border: 2px solid rgb(240, 239, 239);
+}

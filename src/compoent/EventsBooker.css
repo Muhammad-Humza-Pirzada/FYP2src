@@ -1,0 +1,51 @@
+.margin-30 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/*.work-section {
+    text-align: center;
+    margin: 28px 0;
+}*/
+.bg-grey {
+    background: #F3F4F1;
+}
+/*.btn-sec {
+    margin-top: 19px;
+    margin-bottom: 5px;
+}*/
+.browse {
+    /*background: white;
+    border: 2px solid rgb(237, 50, 55)!important;
+    color: rgb(237, 50, 55)!important;*/
+    font-weight: 600!important;
+    padding: 12px 31px!important;
+    font-size: 16px!important;
+    border-radius: 0!important;
+}
+.DESTP_pp {
+    font-size: 25px!important;
+}
+p, h1, h2, h3, h4, h5, a, ul, li, select, option, span, button {
+    font-family: 'Montserrat', sans-serif!important;
+}
+p {
+    font-size: 16px; /* Default text size */
+}
+
+@media screen and (max-width: 600px) {
+    p {
+        font-size: 14px; /* Text size for screens less than 600px wide */
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 900px) {
+    p {
+        font-size: 18px; /* Text size for screens between 601px and 900px wide */
+    }
+}
+
+@media screen and (min-width: 901px) {
+    p {
+        font-size: 20px; /* Text size for screens greater than 900px wide */
+    }
+}

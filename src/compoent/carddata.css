@@ -1,0 +1,36 @@
+.h {
+    height: auto;
+}
+
+.h-56 {
+    height: 56px;
+}
+
+.h-44 {
+    height: 44px;
+    width: 44px;
+}
+
+/* Responsive styles for screens narrower than 768px */
+@media (max-width: 768px) {
+    .h{
+        height: auto; /* Adjust the height for smaller screens */
+    }
+
+    .h-56 {
+        height: 40px; /* Adjust the height for smaller screens */
+    }
+
+    .h-44 {
+        height: 30px; /* Adjust the height for smaller screens */
+        width: 30px; /* Adjust the width for smaller screens */
+    }
+}
+
+/* Responsive styles for screens narrower than 480px */
+@media (max-width: 480px) {
+    .h-44 {
+        height: 24px; /* Adjust the height for smaller screens */
+        width: 24px; /* Adjust the width for smaller screens */
+    }
+}

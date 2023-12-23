@@ -1,0 +1,9 @@
+textarea::placeholder{
+    color: rgb(10, 10, 10);font-size: 1.2em;text-align: center;
+
+
+    
+}
+textarea{
+    border-radius: 10px;
+}

@@ -1,0 +1,11 @@
+.loginbackground{
+    background-image: url("https://image.wedmegood.com/resized/1900X/uploads/city_bg_image/1/delhi_bg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.form-filter{
+    backdrop-filter: blur(0.8px);
+}
